@@ -5,7 +5,6 @@ class Solution:
             newRow = [1] * (n)
             for x in range(len(newRow)-2, -1, -1):
                 newRow[x] = newRow[x+1] + oldRow[x]
-            # print(oldRow, newRow)
             oldRow = newRow
                     
         return oldRow[0]
