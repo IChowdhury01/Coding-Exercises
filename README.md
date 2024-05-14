@@ -5,7 +5,7 @@ Coding Exercises
 
 | Title | Solution | Difficulty |
 |----- | -------- | ---------- |
-|[Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [Java](./algorithms/java/src/LargestNumberAfterMutatingSubtring/largestNumberAfterMutatingSubstring.java)|Medium|
+|[Coin Change](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [Python](./Algorithms/1D Dynamic Programming/Coin_Change.py)|Medium|
 
 ### Databases    
 
