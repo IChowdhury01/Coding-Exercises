@@ -3,7 +3,7 @@ Coding Exercises
 
 ### Algorithms
 
-| Title | Solution | Difficulty |
+| Problem | Solution | Difficulty |
 | :-----: | :--------: | :----------: |
 |[Coin Change](https://leetcode.com/problems/coin-change) | [Python](./Algorithms/Python/1D_Dynamic_Programming/Coin_Change.py)|Medium|
 |[Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [Python](./Algorithms/Python/1D_Dynamic_Programming/Decode_Ways.py)|Medium|
@@ -58,7 +58,7 @@ Coding Exercises
 
 ### Databases    
 
-| Title | Solution | Difficulty |
+| Problem | Solution | Difficulty |
 | :-----: | :--------: | :----------: |
 |[Average Selling Price](https://leetcode.com/problems/average-selling-price/description/)|[PostgreSQL](./Databases/PostgreSQL/Average_Selling_Price.sql)|Easy|
 |[Exchange Seats](https://leetcode.com/problems/exchange-seats/description/)|[PostgreSQL](./Databases/PostgreSQL/Exchange_Seats.sql)|Medium|
