@@ -59,7 +59,7 @@ Coding Exercises
 ### Databases    
 
 | Title | Solution | Difficulty |
-|----- | -------- | ---------- |
+| :-----: | :--------: | :----------: |
 |[Average Selling Price](https://leetcode.com/problems/average-selling-price/description/)|[PostgreSQL](./Databases/PostgreSQL/Average_Selling_Price.sql)|Easy|
 |[Exchange Seats](https://leetcode.com/problems/exchange-seats/description/)|[PostgreSQL](./Databases/PostgreSQL/Exchange_Seats.sql)|Medium|
 |[Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/)|[PostgreSQL](./Databases/PostgreSQL/Product_Sales_Analysis_III.sql)|Medium|
