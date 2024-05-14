@@ -6,8 +6,8 @@ Coding Exercises
 | Title | Solution | Difficulty |
 |----- | -------- | ---------- |
 |[Coin Change](https://leetcode.com/problems/coin-change) | [Python](./Algorithms/Python/1D_Dynamic_Programming/Coin_Change.py)|Medium|
+|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [Python](./Algorithms/Python/1D_Dynamic_Programming/Decode_Ways.py)|Medium|
 
-Algorithms/Python/1D_Dynamic_Programming/Decode_Ways.py
 Algorithms/Python/1D_Dynamic_Programming/House_Robber.py
 Algorithms/Python/2D_Dynamic_Programming/Longest_Common_Subsequence.py
 Algorithms/Python/2D_Dynamic_Programming/Unique_Paths.py
@@ -62,10 +62,9 @@ Algorithms/Python/Two_Pointers/Two_Sum_II.py
 | Title | Solution | Difficulty |
 |----- | -------- | ---------- |
 |[Average Selling Price](https://leetcode.com/problems/average-selling-price/description/)|[PostgreSQL](./Databases/PostgreSQL/Average_Selling_Price.sql)|Easy|
-
-Databases/PostgreSQL/Exchange_Seats.sql
-Databases/PostgreSQL/Product_Sales_Analysis_III.sql
-Databases/PostgreSQL/Recyclable_and_Low_Fat_Products.sql
-Databases/PostgreSQL/Rising_Temperature.sql
-Databases/PostgreSQL/Second_Highest_Salary.sql
-Databases/PostgreSQL/Triangle_Judgement.sql
+|[Exchange Seats](https://leetcode.com/problems/exchange-seats/description/)|[PostgreSQL](./Databases/PostgreSQL/Exchange_Seats.sql)|Medium|
+|[Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/)|[PostgreSQL](./Databases/PostgreSQL/Product_Sales_Analysis_III.sql)|Medium|
+|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/)|[PostgreSQL](./Databases/PostgreSQL/Recyclable_and_Low_Fat_Products.sql)|Easy|
+|[Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)|[PostgreSQL](./Databases/PostgreSQL/Rising_Temperature.sql)|Easy|
+|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/)|[PostgreSQL](./Databases/PostgreSQL/Second_Highest_Salary.sql)|Medium|
+|[Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/)|[PostgreSQL](./Databases/PostgreSQL/Triangle_Judgement.sql)|Medium|
