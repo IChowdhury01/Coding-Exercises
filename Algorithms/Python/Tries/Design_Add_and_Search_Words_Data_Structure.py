@@ -4,34 +4,35 @@
 # param_2 = obj.search(word)
 
 class TrieNode:
-    
     def __init__(self):
+        self.isWord = False
         self.children = {}
-        self.end_of_word = False
 
 class WordDictionary:
-
     def __init__(self):
-        self.node = TrieNode()
-
+        self.root = TrieNode()
+        
     def addWord(self, word: str) -> None:
-        cur = self.node
-        for letter in word:
-            if letter not in cur.children:
-                cur.children[letter] = TrieNode()
-            cur = cur.children[letter]
-        cur.end_of_word = True
-
+        cur = self.root
+        for c in word:
+            if c not in cur.children:
+                cur.children[c] = TrieNode()
+            cur = cur.children[c]
+        cur.isWord = True
+    
     def search(self, word: str) -> bool:
-        def dfs(idx=0, node=self.node):
-            for i in range(idx, len(word)):
-                letter = word[i]
-                if letter == '.':
-                    for child in node.children.values():
-                        if dfs(i+1, child): return True
+        def dfs(i, cur):
+            nonlocal word
+            for j in range(i, len(word)):
+                # print(word, i, j)
+                c = word[j]
+                if c == '.':
+                    for child in cur.children.values():
+                        if dfs(j+1, child): return True
                     return False
-                if letter not in node.children:
+                elif c not in cur.children:
                     return False
-                node = node.children[letter]
-            return node.end_of_word
-        return dfs()
+                else:
+                    cur = cur.children[c]
+            return cur.isWord
+        return dfs(0, self.root)
