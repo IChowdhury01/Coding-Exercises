@@ -55,6 +55,8 @@ Coding Exercises
 |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./Algorithms/Python/Two_Pointers/Container_With_Most_Water.py)|Medium|
 |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./Algorithms/Python/Two_Pointers/Trapping_Rain_Water.py)|Hard|
 |[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./Algorithms/Python/Two_Pointers/Two_Sum_II.py)|Medium|
+|[Design Twitter](https://leetcode.com/problems/design-twitter/) | [Python](./Algorithms/Python/Heaps/Design_Twitter.py)|Medium|
+
 
 ### Databases    
 
