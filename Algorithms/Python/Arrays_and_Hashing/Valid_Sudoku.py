@@ -1,14 +1,30 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        rowDict, colDict, subDict = defaultdict(set), defaultdict(set), defaultdict(set)
-        for y in range(len(board)):
-            for x in range(len(board[y])):
-                c = board[y][x]
-                if c != ".":
-                    if c in rowDict[y] or c in colDict[x] or c in subDict[(x // 3, y // 3)]:
-                        return False
-                    rowDict[y].add(c)
-                    colDict[x].add(c)
-                    subDict[(x // 3, y // 3)].add(c)
-        
+        '''
+        1. No repetition within any row
+        2. No repetition within any column
+        3. No repetition within 9 3x3 subgrids
+        HashMap x -> Set of values in column x
+        HashMap y -> Set of values in row y
+        HashMap (x // 3, y // 3) -> Set of values in subgrid
+        Loop grid
+            Get value
+            Check if current value is in any hashmap
+                return false
+            Add to sets
+        return true
+        '''
+        cols = defaultdict(set)
+        rows = defaultdict(set)
+        subgrids = defaultdict(set)
+        lenX, lenY = len(board[0]), len(board)
+        for y in range(lenY):
+            for x in range(lenX):
+                val = board[y][x]
+                if val == ".": continue
+                subgrid = (x // 3, y // 3)
+                if val in cols[x] or val in rows[y] or val in subgrids[subgrid]: return False
+                cols[x].add(val)
+                rows[y].add(val)
+                subgrids[subgrid].add(val)
         return True
