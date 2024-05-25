@@ -57,6 +57,7 @@ Coding Exercises
 |[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./Algorithms/Python/Two_Pointers/Two_Sum_II.py)|Medium|
 |[Design Twitter](https://leetcode.com/problems/design-twitter/) | [Python](./Algorithms/Python/Heaps/Design_Twitter.py)|Medium|
 |[Rotten Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python](./Algorithms/Python/Graphs/Rotten_Oranges.py)|Medium|
+|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./Algorithms/Python/Math_and_Geometry/Palindrome_Number.py)|Easy|
 
 
 ### Databases    
