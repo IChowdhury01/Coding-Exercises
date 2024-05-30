@@ -58,7 +58,7 @@ Coding Exercises
 |[Design Twitter](https://leetcode.com/problems/design-twitter/) | [Python](./Algorithms/Python/Heaps/Design_Twitter.py)|Medium|
 |[Rotten Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python](./Algorithms/Python/Graphs/Rotten_Oranges.py)|Medium|
 |[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./Algorithms/Python/Math_and_Geometry/Palindrome_Number.py)|Easy|
-|[Redundant Connections](https://leetcode.com/problems/redundant-connections/) | [Python](./Algorithms/Python/Graphs/Redundant_Connections.py)|Medium|
+|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Python](./Algorithms/Python/Graphs/Redundant_Connection.py)|Medium|
 
 
 ### Databases    
