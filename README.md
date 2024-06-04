@@ -59,6 +59,7 @@ Coding Exercises
 |[Rotten Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python](./Algorithms/Python/Graphs/Rotten_Oranges.py)|Medium|
 |[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./Algorithms/Python/Math_and_Geometry/Palindrome_Number.py)|Easy|
 |[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Python](./Algorithms/Python/Graphs/Redundant_Connection.py)|Medium|
+|[Word Ladder](https://leetcode.com/problems/word-ladder/) | [Python](./Algorithms/Python/Graphs/Word_Ladder.py)|Hard|
 
 
 ### Databases    
