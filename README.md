@@ -61,6 +61,7 @@ Coding Exercises
 |[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Python](./Algorithms/Python/Graphs/Redundant_Connection.py)|Medium|
 |[Word Ladder](https://leetcode.com/problems/word-ladder/) | [Python](./Algorithms/Python/Graphs/Word_Ladder.py)|Hard|
 |[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | [Python](./Algorithms/Python/1D_Dynamic_Programming/Partition_Equal_Subset_Sum.py)|Medium|
+|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Python](./Algorithms/Python/Bit_Manipulation/Reverse_Integer.py)|Medium|
 
 
 ### Databases    
