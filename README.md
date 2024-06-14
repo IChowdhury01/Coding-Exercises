@@ -63,6 +63,7 @@ Coding Exercises
 |[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | [Python](./Algorithms/Python/1D_Dynamic_Programming/Partition_Equal_Subset_Sum.py)|Medium|
 |[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Python](./Algorithms/Python/Bit_Manipulation/Reverse_Integer.py)|Medium|
 |[Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | [Python](./Algorithms/Python/Intervals/Minimum_Interval_to_Include_Each_Query.py)|Hard|
+|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Python](./Algorithms/Python/Trees/Binary_Search_Tree_to_Greater_Sum_Tree.py)|Medium|
 
 
 ### Databases    
