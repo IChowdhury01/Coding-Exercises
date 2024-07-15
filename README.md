@@ -64,6 +64,7 @@ Coding Exercises
 |[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Python](./Algorithms/Python/Bit_Manipulation/Reverse_Integer.py)|Medium|
 |[Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | [Python](./Algorithms/Python/Intervals/Minimum_Interval_to_Include_Each_Query.py)|Hard|
 |[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Python](./Algorithms/Python/Trees/Binary_Search_Tree_to_Greater_Sum_Tree.py)|Medium|
+|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) | [Python](./Algorithms/Python/Arrays_and_Hashing/Minimum_Absolute_Difference.py)|Easy|
 
 
 ### Databases    
