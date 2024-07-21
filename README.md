@@ -66,7 +66,7 @@ Coding Exercises
 |[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Python](./Algorithms/Python/Trees/Binary_Search_Tree_to_Greater_Sum_Tree.py)|Medium|
 |[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) | [Python](./Algorithms/Python/Arrays_and_Hashing/Minimum_Absolute_Difference.py)|Easy|
 |[4 Sum](https://leetcode.com/problems/4sum/) | [Python](./Algorithms/Python/Two_Pointers/4_Sum.py)|Medium|
-|Find_Synonyms | [Python](./Algorithms/Python/Graphs/Find_Synonyms.py)|Medium|
+|Find Synonyms | [Python](./Algorithms/Python/Graphs/Find_Synonyms.py)|Medium|
 
 ### Databases    
 
