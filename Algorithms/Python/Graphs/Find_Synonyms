@@ -1,9 +1,8 @@
 '''
+Problem:
 If a is a synonym of b and b is a synonym of c, this implies that a is a synonym of c and c is a synonym of a
 
 "advice:counsel counsel:suggestion suggestion:advice activity:briskness briskness:liveliness"
-briskness
-[liveliness, activity]
 
 In this example, advice, counsel, suggestion are all synonyms of each other, while advice is not a synonym of activity.
 
@@ -23,6 +22,10 @@ word
 Convert string of synonyms -> adjacency list -> Loop adjacency list -> DFS from each node if it matches input word. Append to result list.
 TC: O(N + M^2), N = Chars in string, M = Unique Words
 SC: O(M)
+
+"advice:counsel counsel:suggestion suggestion:advice activity:briskness briskness:liveliness"
+briskness
+[liveliness, activity]
 '''
 
 from collections import defaultdict
@@ -54,6 +57,7 @@ class Solution:
                 dfs(root)
 
         return res[1:] if res else res
+
 
 
 solution = Solution()
