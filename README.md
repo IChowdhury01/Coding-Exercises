@@ -67,6 +67,8 @@ Coding Exercises
 |[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) | [Python](./Algorithms/Python/Arrays_and_Hashing/Minimum_Absolute_Difference.py)|Easy|
 |[4 Sum](https://leetcode.com/problems/4sum/) | [Python](./Algorithms/Python/Two_Pointers/4_Sum.py)|Medium|
 |[Find Synonyms](./Algorithms/Python/Graphs/Find_Synonyms.py) | [Python](./Algorithms/Python/Graphs/Find_Synonyms.py)|Medium|
+|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description) | [Python](./Algorithms/Python/Arrays_and_Hashing/Roman_to_Integer.py)|Easy|
+
 
 ### Databases    
 
